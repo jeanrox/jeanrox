@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jeanrox
-- 
+  
 💻Actualmente estudio para ser un desarrollador Fullstack.
 💎 Soy de Peru y me gustaria conocer mas gente de este entorno y aprender de ellas.
 🚀 Estoy aprendiendo ingles e ingrese al nivel B1 si alguien quiere practicar contacteme.
