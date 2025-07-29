@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jeanrox
+- 👋 Hi, I’m @marco.gtzr
   
   💻Actualmente estudio para ser un desarrollador Fullstack.
   💎 Soy de Peru y me gustaria conocer mas gente de este entorno y aprender de ellos.
